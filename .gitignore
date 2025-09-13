@@ -7,7 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-.env (please comment this out when running the project)
+(please remove .env  when running the project)
 node_modules
 dist
 dist-ssr
