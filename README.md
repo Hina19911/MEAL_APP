@@ -1,3 +1,7 @@
+## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/aL0yXuBvdkY/0.jpg)](https://www.youtube.com/watch?v=aL0yXuBvdkY)
+
 # MealSearch
 
 A sleek **React + Vite** app for discovering meals from **TheMealDB**, liking favorites, filtering by pantry ingredients, planning meals on a calendar, and logging in (demo login by default, optional Firebase Email/Password). Clean dark UI with **Tailwind CSS**, a simple toast, and a polished header/footer.
