@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "demo": {
+      "username": "user",
+      "algo": "PBKDF2-SHA256",
+      "iterations": 200000,
+      "salt": "demo-salt-123",
+      "hash": "2f/pSQS7ElwxWGxGXSlKjAFepjez9Jehv3Kj6/7oHx4="
+    }
+  }
+}
